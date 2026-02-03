@@ -1,0 +1,2 @@
+# VLF-Prijemnik-za-Indirektnu-Detekciju-i-Pra-enje-Solarnih-Baklji---Petnica-2026
+Glavna ideja ovog projektajeste konstrukcija jeftinog, ali visokoosetljivog VLF (Very Low Frequency) radio-prijemnika namenjenog za indirektno praćenje solarne aktivnosti. Projekat se zasniva na fenomenu da solarna radijacija (X-zraci) menja jonizaciju D-sloja jonosfere, što onda rezultira propagacijom radio talasa niskih frekvencija (3–30 kHz). 
